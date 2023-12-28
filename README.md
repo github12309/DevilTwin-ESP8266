@@ -23,7 +23,7 @@ Note: Deauthing might not work on some phones due to the fact that I am using br
 
 # How to use:
 
-1.Connect to the AP named "DevilTwin" with password "12345678" from your phone/PC.
+1.Connect to the AP named "HEX-21" with password "HEX-2121" from your phone/PC.
 
 2.Select the target you want (list of available APs refreshes every 30secs - page reload is required)
 
